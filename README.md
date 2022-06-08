@@ -1,3 +1,3 @@
-# mental_health_app
+# ui/ux
 
-![mental_health_app](https://github.com/roufy235/ui-ux/blob/main/assets/mock.jpg?raw=true)
+![ ui/ux](https://github.com/roufy235/ui-ux/blob/main/assets/mock.jpg?raw=true)
